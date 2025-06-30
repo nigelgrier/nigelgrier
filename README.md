@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nigelgrier
-- 👀 I’m interested in blockchain, startup cities, cryptocities, SCADA, PLAC, HMI etc.
+- 👀 I’m interested in blockchain, startup cities, cryptocities, SCADA, PLC, HMI etc.
 - 🌱 I’m currently learning everything
 - 💞️ I’m looking to collaborate on anything in Item2 above.
 - 📫 How to reach me grier@pm.me
